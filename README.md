@@ -1,4 +1,6 @@
-# 🚀 Welcome to My Userpage
+<div style="font-family: 'Arial', sans-serif;">
+
+# Welcome to My Userpage! 🙂
 
 ## **🛠️ Technologies & Tools**
 
@@ -8,16 +10,16 @@
 - **Database:** MongoDB
 - **Other:** Git, Linux
 
-### **🌐 Interested in Learning More About:**
-- Cyber Security 
-- Cloud Computing
-- Computer Graphics (Three.js / WebGL, Vulkan)
+### **<small>🌐 Interested in Learning More About:</small>**
+- <small>Cyber Security</small>
+- <small>Cloud Computing</small>
+- <small>Computer Graphics (Three.js / WebGL, Vulkan)</small>
 
-## **📊 GitHub Stats**
+## **<small>📫 How to Contact Me</small>**
+
+- <small><b>Email:</b> [ifazalam33@gmail.com](mailto:ifazalam33@gmail.com)</small>
+- <small><b>LinkedIn:</b> [Connect on LinkedIn](https://www.linkedin.com/in/ifaz-alam/)</small>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifaz-alam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## **📫 How to Contact Me**
-
-- **Email:** [ifazalam33@gmail.com](mailto:ifazalam33@gmail.com)
-- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/ifaz-alam/)
+</div>
