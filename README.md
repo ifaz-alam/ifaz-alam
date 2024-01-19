@@ -24,6 +24,3 @@
 ## **<small>📫 How to Contact Me</small>**
 [![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:ifazalam33@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ifaz-alam/)
-
-
-![To Infinity and Beyond](https://media.licdn.com/dms/image/C4E12AQHvrKKsQNc9pg/article-cover_image-shrink_600_2000/0/1561387651744?e=2147483647&v=beta&t=5mPeO2CLNZw1eSc7_UPl35Q6dTlBswGjjLhsdyXZaWQ)
