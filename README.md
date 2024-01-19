@@ -22,5 +22,5 @@
 - <small>Computer Graphics (Three.js / WebGL, Vulkan)</small>
 
 ## **<small>📫 How to Contact Me</small>**
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:ifazalam33@gmail.com)
+[![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:ifazalam33@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ifaz-alam/)
